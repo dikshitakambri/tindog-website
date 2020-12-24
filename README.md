@@ -4,7 +4,12 @@
 <p>This is a frontend website</p>
 
 <b>Languages Used<b>
-
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
 
 <b>Libraries Used<b>
--Bootstrap(Frontend library)
+<ul>
+    <li>Bootstrap(Frontend library)</li>
+</ul>
